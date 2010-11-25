@@ -1,0 +1,4 @@
+localhost
+sutest
+test123
+sudb
